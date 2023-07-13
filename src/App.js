@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './gamepad.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          게임 추천 서비스에 오신 것을 환영합니다!!
         </p>
         <a
           className="App-link"
