@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          시작하기
+        시작하기
         </a>
       </header>
     </div>
